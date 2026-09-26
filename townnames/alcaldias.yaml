@@ -1,0 +1,39 @@
+available: true
+id: 2
+mainset:
+- names:
+  - name: Álvaro Obregón
+    probability: 1
+  - name: Azcapotzalco
+    probability: 1
+  - name: Benito Juárez
+    probability: 1
+  - name: Coyoacán
+    probability: 1
+  - name: Cuajimalpa
+    probability: 1
+  - name: Cuauhtémoc
+    probability: 1
+  - name: Gustavo A. Madero
+    probability: 1
+  - name: Iztacalco
+    probability: 1
+  - name: Iztapalapa
+    probability: 1
+  - name: Magdalena Contreras
+    probability: 1
+  - name: Miguel Hidalgo
+    probability: 1
+  - name: Milpa Alta
+    probability: 1
+  - name: Tláhuac
+    probability: 1
+  - name: Tlalpan
+    probability: 1
+  - name: Venustiano Carranza
+    probability: 1
+  - name: Xochimilco
+    probability: 1
+name: alcaldias
+source: null
+subsets: []
